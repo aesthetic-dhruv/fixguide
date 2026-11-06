@@ -1,0 +1,7 @@
+// Top-level build file — same known-good plugin versions as Nova (Run #4/#5).
+// Do NOT change these versions without a build reason: AGP 8.2.2 + Kotlin 1.9.22
+// built successfully on GitHub Actions with JDK 17 / Gradle 8.2.
+plugins {
+    id("com.android.application") version "8.2.2" apply false
+    id("org.jetbrains.kotlin.android") version "1.9.22" apply false
+}
